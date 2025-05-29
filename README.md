@@ -30,7 +30,6 @@ This is a great starting point for students or beginners who are learning comput
 ---
 
 
----
 
 ## 🧪 Simulation Steps
 
@@ -57,14 +56,7 @@ This is a great starting point for students or beginners who are learning comput
 - 🟢 Both PCs can ping the router
 - 🔴 No Internet access (not configured in this simple LAN)
 
----
 
-## 📸 Sample Screenshots
-
-<p float="left">
-  <img src="screenshots/ping_test_pc0.png" width="45%" />
-  <img src="screenshots/ping_test_pc1.png" width="45%" />
-</p>
 
 ---
 
